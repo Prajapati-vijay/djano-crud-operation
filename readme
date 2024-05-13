@@ -1,0 +1,22 @@
+## Clone this repo:
+
+```git clone https://github.com/Prajapati-vijay/djano-crud-operation.git
+```
+
+## Install requirements.txt
+ ```
+ pip install -r requirements.txt 
+ ```
+
+## Run make migrations and migrate command
+
+```
+python manage.py makemigrations
+
+python manage.py migrate ```
+
+Now run this server:
+
+```
+python manage.py runserver
+```
